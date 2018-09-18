@@ -12,7 +12,7 @@
     <h4> <li> We also learned about the radio signals that can be used to create the game of Hot & Cold!
     
 
-<h4> How Is This Interesting And How Does It Relate To The World Of Programming And Coding?
+<br><h4> How Is This Interesting And How Does It Relate To The World Of Programming And Coding?
 
 <br> <h4><p> This is interesting becuase:<p>
  <ul>
