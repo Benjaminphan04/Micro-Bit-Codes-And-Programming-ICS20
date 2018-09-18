@@ -8,14 +8,15 @@
 
 <ul>
  <h4> <li> We learned how to code the micro bit.
-   <h4> <li> We leanred how to download code of the computer and impliment it onto the micro bit.
+   <h4> <li> We learned how to download code of the computer and implement it onto the micro bit.
+    <h4> <li> Wwe also learned about the radio signals that can be used to create the game of Hot & Cold!
     
 
 <h3> How Is This Interesting And How Does It Relate To The World Of Programming And Coding?
 
 <br> <h4><p> This is interesting becuase:<p>
  <ul>
- <h4>  <li> You learn about radio signals and how they can lose their conection wehn they get apart
+ <h4>  <li> You learn about radio signals and how they can lose their connection when they get apart
   <li> We can create anything with microBit
    <li> Its a great way to learn codeing!
     <li> Test
