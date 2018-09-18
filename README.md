@@ -7,7 +7,7 @@ This is our group repository for the new micro-bit project.
 
 <h2> What Did We Learn During The Class?
 
-<p> During class today we learned about the micro:bit <p>
+<h4> During class today we learned about the micro bit
 
 <h2> How Is This Interesting And How Does It Relate To The World Of Programming And Coding?
 
