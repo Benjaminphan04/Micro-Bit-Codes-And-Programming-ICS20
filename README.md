@@ -9,7 +9,7 @@
 <ul>
  <h4> <li> We learned how to code the micro bit.
    <h4> <li> We learned how to download code of the computer and implement it onto the micro bit.
-    <h4> <li> Wwe also learned about the radio signals that can be used to create the game of Hot & Cold!
+    <h4> <li> We also learned about the radio signals that can be used to create the game of Hot & Cold!
     
 
 <h3> How Is This Interesting And How Does It Relate To The World Of Programming And Coding?
