@@ -1,11 +1,17 @@
 # Micro-Bit-Codes-And-Programming-ICS20
+
+
 This is our group repository for the new micro-bit project.
 
-<h1> What did we learn during the class?
+<br>
 
+<h2> What Did We Learn During The Class?
 
-<h1> How is this interesting and how does it relate to the world of programming and coding?
+<br>
 
+<h2> How Is This Interesting And How Does It Relate To The World Of Programming And Coding?
 
-<h1> Where can WE go from here?
+<br>
+
+<h2> Where Aan WE Go From Here?
 
