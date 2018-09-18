@@ -12,7 +12,7 @@ This is our group repository for the new micro-bit project.
    <h4> <li> we leanred how to download code of the computer and impliment it onto the micro bit
     
 
-<h2> How Is This Interesting And How Does It Relate To The World Of Programming And Coding?
+<h3> How Is This Interesting And How Does It Relate To The World Of Programming And Coding?
 <br>
 <p> this is interesting becuase:<p>
  <ul>
