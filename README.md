@@ -20,6 +20,6 @@
   <li> We can create anything with microBit
    <li> Its a great way to learn codeing!
     
-<h3> Where Can WE Go From Here?
+<br><h3> Where Can WE Go From Here?
 
 <h4><p> From here, what we can do is to <p>
