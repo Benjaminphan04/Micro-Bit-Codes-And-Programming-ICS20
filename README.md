@@ -5,7 +5,7 @@ This is our group repository for the new micro-bit project.
 
 
 
-<h2> What Did We Learn During The Class?
+<h3> What Did We Learn During The Class?
 
 <ul>
  <h4> <li> we learned how to code the micro bit 
@@ -18,9 +18,9 @@ This is our group repository for the new micro-bit project.
  <ul>
  <h4>  <li> IDK TEST
   <li> TEST #2
-   <li> test #3
+   <li> TEST #3
     <li> TEST #4 
      <li> TEST #5
 
-<h2> Where Can WE Go From Here?
+<h3> Where Can WE Go From Here?
 
