@@ -14,7 +14,7 @@ This is our group repository for the new micro-bit project.
 
 <h3> How Is This Interesting And How Does It Relate To The World Of Programming And Coding?
 
-<br> <p <h4>> This is interesting becuase:<p>
+<br> <p<h4>> This is interesting becuase:<p>
  <ul>
  <h4>  <li> IDK TEST
 
