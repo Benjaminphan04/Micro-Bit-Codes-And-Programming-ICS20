@@ -12,9 +12,11 @@ This is our group repository for the new micro-bit project.
    <h4> <li> we leanred how to download code of the computer and impliment it onto the micro bit
     
 
-<h3> How Is This Interesting And How Does It Relate To The World Of Programming And Coding?
+<h2> How Is This Interesting And How Does It Relate To The World Of Programming And Coding?
 
+<p <h3>> this is interesting becuase:
+ <ul>
+ <h4>  <li> IDK TEST
 
-
-<h3> Where Can WE Go From Here?
+<h2> Where Can WE Go From Here?
 
