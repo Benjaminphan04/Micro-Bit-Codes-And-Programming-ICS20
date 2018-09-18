@@ -19,8 +19,7 @@
  <h4>  <li> You learn about radio signals and how they can lose their connection when they get apart
   <li> We can create anything with microBit
    <li> Its a great way to learn codeing!
-    <li> Test
-     <li> TEST #5
-
+    
 <h3> Where Can WE Go From Here?
 
+<p> From here, what we can do is to <p>
