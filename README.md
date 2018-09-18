@@ -1,11 +1,7 @@
 # Micro-Bit-Codes-And-Programming-ICS20
 
-
-<head>
- <title>
-  This is our group repository for the micro bit project
-  <title>
-<head>
+<h2> This is our gorup repository for the micro bit project!
+ 
 
 
 <h3> What Did We Learn During The Class?
