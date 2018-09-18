@@ -1,7 +1,7 @@
 # Micro-Bit-Codes-And-Programming-ICS20
 
 
-<u> This is our group repository for the new micro-bit project. </u>
+This is our group repository for the new micro-bit project.
 
 
 
