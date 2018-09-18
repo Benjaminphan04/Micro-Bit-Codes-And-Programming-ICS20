@@ -4,7 +4,7 @@
  
 
 
-<h2> What Did We Learn During The Class?
+<h3> What Did We Learn During The Class?
 
 <br><ul>
  <h4> <li> We learned how to code the micro bit.
