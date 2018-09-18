@@ -5,7 +5,7 @@
  <title>
   This is our group repository for the micro bit project
   <title>
-
+<head>
 
 
 <h3> What Did We Learn During The Class?
