@@ -15,10 +15,10 @@
 
 <br> <h4><p> This is interesting becuase:<p>
  <ul>
- <h4>  <li> IDK TEST
-  <li> TEST #2
-   <li> TEST #3
-    <li> TEST #4 
+ <h4>  <li> You learn about radio signals and how they can lose their conection wehn they get apart
+  <li> We can create anything with microBit
+   <li> Its a great way to learn codeing!
+    <li> Test
      <li> TEST #5
 
 <h3> Where Can WE Go From Here?
