@@ -19,9 +19,10 @@
  <h4>  <li> You learn about radio signals and how they can lose their connection when they get apart
  <li> We can create anything with microBit
   <li> Its a great way to learn coding!
+  </ul>
     
 <br><h3> Where Can WE Go From Here?
 
 <h4><p> From here, what we can do is to, well, code more!
- microbit has so many things to do on in, the possibilities are <strong>endless<strong>!
+ microbit has so many things to do on in, the possibilities are endless
  aswell as that we can also use our new knowledge for better! Now that we know how to download codes and implement them onto physical things, we can do so much!<p>
