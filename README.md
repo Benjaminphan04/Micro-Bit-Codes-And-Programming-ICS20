@@ -7,9 +7,9 @@
 <h3> What Did We Learn During The Class?
 
 <br><ul>
- <h4><li> We learned how to code the micro bit.
- <h4><li> We learned how to download code of the computer and implement it onto the micro bit.
-  <h4><li> We also learned about the radio signals that can be used to create the game of Hot & Cold!
+ <li> We learned how to code the micro bit.
+ <li> We learned how to download code of the computer and implement it onto the micro bit.
+  <li> We also learned about the radio signals that can be used to create the game of Hot & Cold!
    </ul>
     
 
