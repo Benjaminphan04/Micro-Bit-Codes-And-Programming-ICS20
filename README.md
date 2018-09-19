@@ -17,7 +17,7 @@
 
  <h3><p> This is interesting because:<p>
  <ul>
- <br><h4><li> You learn about radio signals and how they can lose their connection when they get apart
+ <h4><li> You learn about radio signals and how they can lose their connection when they get apart
  <li> We can create anything with microBit
   <li> Its a great way to learn coding!
   </ul>
